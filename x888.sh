@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     DARK CYBER termux_ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" RADIUS Y MONIM  [FR13ND8]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" RY Monim"$i"                   |"
