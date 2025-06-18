@@ -16,7 +16,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" XERXES  888251  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Radius Y Monim"$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku"       RY Monim"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0823988242__"$i"             |"
@@ -257,7 +257,7 @@ sleep 2
 echo $i"Bila Ada Kesalahan"
 sleep 2
 echo $ku"WhatsApp :"$i" 08239888242--"
-echo $ku"Facebook :"$i" Radius Y. Monim"
+echo $ku"Facebook :"$i" RY Monim"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support <<"
 exit
