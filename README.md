@@ -10,4 +10,11 @@ git clone https://github.com/xerxes888/SosmedHACK
 
 cd SosmedHACK
 
-python run.py
+chmod +x install-sb.sh
+
+./install-sb.sh
+
+python xerxes.py
+
+# Authors :
+* facebook  : xerxes triple eight
