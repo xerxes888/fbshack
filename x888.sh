@@ -7,7 +7,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# Jangan Recode Ya gayn
+# Please Don't Recode
 echo
 echo
 echo
@@ -255,9 +255,9 @@ echo $cy"Terima Kasih"
 sleep 2
 echo $i"Bila Ada Kesalahan"
 sleep 2
-echo $ku"WhatsApp :"$i" 0823988824265"
-echo $ku"Facebook :"$i" Radius Y Monim"
+echo $ku"WhatsApp :"$i" 08239888242--"
+echo $ku"Facebook :"$i" Radius Y. Monim"
 sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> Thanks Yang Sudah Support <<"
 exit
 fi
