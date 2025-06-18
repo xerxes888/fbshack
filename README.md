@@ -10,7 +10,7 @@ git clone https://github.com/xerxes888/SosmedHACK
 
 cd SosmedHACK
 
-python x888.py
+sh x888.sh
 
 # Authors xerxes888251
 
