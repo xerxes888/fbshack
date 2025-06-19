@@ -13,7 +13,7 @@ echo '
  |  ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░░░░░░░░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝ v2.8.1
 [3] Title    : AllHackingTools - Tool for hacking  -  ⁣ATTENTION! The author of this article is not respo-
 [3] Github   : https://github.com/xerxes888 - responsible for any consequences of reading it. 
-[2] Coded By : Radius Y Monim (888251)  -  All materials are provided for educational purposes only! 
+[2] Recoded By : Radius Y Monim (888251)  -  All materials are provided for educational purposes only! 
 [4]——————-——-–—————-—-–—————-————-—–————-———-—–—————————-——–—————–-——[715]
 '|lolcat -p 1.6 -a -d 2 -s 20.0
 
@@ -28,19 +28,6 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 # Please Don't Recode
 echo
-echo
-echo
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
-echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" XERXES  888251  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku"       RY Monim"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 0823988242__"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku"  monim26rady@gmail.com"$i"      |"
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" R"$i" |"
