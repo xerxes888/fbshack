@@ -15,7 +15,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" RADIUS Y MONIM  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" RY Monim"$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku" RY Monim      "$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0823988242__"$i"             |"
@@ -43,7 +43,7 @@ echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ────�
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" H"$i" |"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" A"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" C"$i" |"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU YAUW! "$i"|"$i"   |"$cy "K"$i" |"
+echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU YAUW! "$i"|"$i"    |"$cy "K"$i" |"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" S"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
