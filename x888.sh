@@ -43,7 +43,7 @@ echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ────�
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" H"$i" |"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" A"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" C"$i" |"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU YAUW! "$i"|"$i"   |"$cy "K"$i" |"
+echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU YAUW! "$i"|"$i"     |"$cy "K"$i" |"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" S"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
