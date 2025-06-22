@@ -11,17 +11,17 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
-echo $i" |"$me"─────────────────────────────────────────────"$i"|"
+echo $i"["$bi"•"$i"]"$me"──────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i"["$bi"•"$i"]"$me"──────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"              |"
+echo $i" |"$me"──────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" XERXES  888251  [FR13ND8]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku"       RY Monim"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i"      |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0823988242__"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku"  monim26rady@gmail.com"$i"      |"
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i"["$bi"•"$i"]"$me"─────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" R"$i" |"
