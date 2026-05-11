@@ -13,5 +13,4 @@ cd SosmedHACK
 sh x888.sh
 
 # Authors xerxes888251
-
 Papuan Private Cyber Security
